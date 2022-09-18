@@ -1,5 +1,5 @@
 # WebNote
-## 2022.9.15 | FE 1.0.2
+## 2022.9.15 | FE 1.1
 ##### Based on Vue.js 2
 <br>
 
